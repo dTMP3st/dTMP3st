@@ -4,7 +4,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dTMP3st&theme=monokai" width=400 />
   <br/>
   <br/>
-  <img src="https://resources.iso-templates.com/hubfs/How_can_small_businesses_mitigate_information_security_risks_by.gif" />
+  <img src="https://resources.iso-templates.com/hubfs/How_can_small_businesses_mitigate_information_security_risks_by.gif" height=400/>
 </p>
 <br/>
 <b><h3>Contatos</h3></b>
