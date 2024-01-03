@@ -11,6 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dTMP3st/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dTMP3st/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lbt7hensrd7zzbdyik2qoxjk7)
+[![Twitch](https://img.shields.io/badge/twitch-FFFFFF?style=for-the-badge&logo=twitch&logoColor=purple)](https://www.twitch.tv/dtmp3st)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dTMP3st)  
 
 <b><h3>Capture The Flag (CTF)</h3></b>
