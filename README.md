@@ -15,6 +15,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dTMP3st)  
 
 <b><h3>Capture The Flag (CTF)</h3></b>
+[![HackerSec](https://img.shields.io/badge/HackerSec-000000?style=for-the-badge&logo=HackerSec&logoColor=black)](https://capturetheflag.com.br/player/dTMP3st)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=green)](https://www.hackthebox.com/home/users/profile/1189945)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000020?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/dTMP3st)
 
