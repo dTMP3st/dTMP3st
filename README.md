@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dTMP3st&show_icons=true&theme=monokai" width=375 />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dTMP3st&theme=monokai" width=400 />
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dTMP3st/dTMP3st/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dTMP3st/dTMP3st/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dTMP3st/dTMP3st/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dTMP3st/dTMP3st/output/github-contribution-grid-snake.svg">
   </picture>
