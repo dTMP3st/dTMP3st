@@ -7,9 +7,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dTMP3st/dTMP3st/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dTMP3st/dTMP3st/output/github-contribution-grid-snake.svg">
   </picture>
-  <br/>
-  <br/>
-  <img src="https://resources.iso-templates.com/hubfs/How_can_small_businesses_mitigate_information_security_risks_by.gif" height=400/>
 </p>
 <br/>
 <b><h3>Contatos</h3></b>
