@@ -19,5 +19,8 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=green)](https://www.hackthebox.com/home/users/profile/1189945)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000020?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/dTMP3st)
 
+<b><h3>Bug Bounty</h3></b>
+[![HackerOne](https://img.shields.io/badge/hackerone-FFFFFF?style=for-the-badge&logo=hackerone&logoColor=black)](https://hackerone.com/dtmp3st?type=user)
+
 <b><h3>This Is dTMP3st playlist</h3></b>
 <a href="https://open.spotify.com/playlist/1zd5TYQFOgTXRFjYc4HvR6"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
