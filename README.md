@@ -8,7 +8,7 @@
 </picture>
 <b><h3>Social media</h3></b>
 
-[![Discord](https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dYHnep9j)
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dTMP3st/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dTMP3st/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lbt7hensrd7zzbdyik2qoxjk7)
