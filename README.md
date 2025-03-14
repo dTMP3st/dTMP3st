@@ -1,4 +1,4 @@
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=dTMP3st&show_icons=true&theme=dark) | ![Aditya GitHub Streak]() |
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=dTMP3st&show_icons=true&theme=dark) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dTMP3st&theme=dark) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dTMP3st&theme=dark) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dTMP3st&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dark) |
 <picture>
